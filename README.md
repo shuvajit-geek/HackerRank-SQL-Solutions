@@ -15,4 +15,4 @@
 In this repository you will find every HackerRank SQL problem's solution. It's include each difficulty level - Basic, Medium and Hard. Also include all SUBDOMAINS like Basic Select, Advance Select, Aggregation, Basic Join, Advance Join &amp; Alternative Queries.
 
 ## Basic Select
-[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | [Solution]()
+1. [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) -> [Solution](https://github.com/shuvajit-geek/HackerRank-SQL-Solutions/blob/main/Basic%20Select/Revising-the-Select-Query-1.sql)
