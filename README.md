@@ -18,4 +18,4 @@ In this repository you will find every HackerRank SQL problem's solution. It's i
 | Number | Question | Solution |
 | :-----:|:--------:|:--------:|
 | 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | [Solution](https://github.com/shuvajit-geek/HackerRank-SQL-Solutions/blob/main/Basic%20Select/Revising-the-Select-Query-1.sql)
-| 2 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | [Solution](Basic%20Select/Revising-the-Select-Query-2.sql)
+| 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | [Solution](Basic%20Select/Revising-the-Select-Query-2.sql)
