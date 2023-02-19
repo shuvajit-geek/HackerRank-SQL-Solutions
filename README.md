@@ -26,3 +26,5 @@ In this repository you will find every HackerRank SQL problem's solution. It's i
 | 7 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true) | [Solution](Basic%20Select/Weather%20Observation%20Station%201.sql)
 | 8 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true) | [Solution](Basic%20Select/Weather%20Observation%20Station%203.sql)
 | 9 | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true) | [Solution](Basic%20Select/Weather%20Observation%20Station%204.sql)
+| 10 | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true) | [Solution](Basic%20Select/Weather%20Observation%20Station%205.SQL)
+| 11 | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true) | [Solution](Basic%20Select/Weather%20Observation%20Station%206.sql)
