@@ -1,0 +1,1 @@
+(SELECT city,LENGTH(city) FROM station ORDER BY CHAR_LENGTH(city),city ASC LIMIT 1) UNION (SELECT city,LENGTH(city) FROM station ORDER BY CHAR_LENGTH(city) DESC,city ASC LIMIT 1);
