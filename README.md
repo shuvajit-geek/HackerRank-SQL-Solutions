@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/shuvajit-geek/HackerRank-SQL-Solutions?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/shuvajit-geek/HackerRank-SQL-Solutions?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/shuvajit-geek/HackerRank-SQL-Solutions?style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/shuvajit-geek/HackerRank-SQL-Solutions?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/shuvajit-geek/HackerRank-SQL-Solutions.svg?cache=remove)
 
